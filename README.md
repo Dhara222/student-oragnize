@@ -1,4 +1,5 @@
 🎓 Student Data Organizer
+
 A clean, efficient, and beginner-friendly Python application to manage student records with full CRUD functionality.
 
 📸 Screenshots • 🎥 Video Demo • 🐛 Report Bug • ✨ Request Feature
@@ -159,7 +160,7 @@ Simply enter the corresponding number to perform your desired action.
 
 📸 Screenshots
 
-🔗 Click Here to View All Screenshots
+(<img width="444" height="2048" alt="ss3py" src="https://github.com/user-attachments/assets/8a3584d6-2dcb-442f-a434-c2d5a518d30b" />)
 
 🎬 Video Demonstration
 
